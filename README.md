@@ -29,4 +29,6 @@ Blackboard pattern
 Interpreter pattern
 ```
 2. [github repo] 产品级的注册登录服务by java  
-https://github.com/Baeldung/spring-security-registration
+https://github.com/Baeldung/spring-security-registration . 
+3. [chrome插件] octotree, 在浏览github项目时该插件会在屏幕左边列出文件树，方便查看和跳转  
+https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc?hl=en-US&utm_source=chrome-ntp-launcher
