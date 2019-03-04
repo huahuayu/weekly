@@ -5,7 +5,7 @@
 https://www.digitalocean.com/community/tutorials/package-management-basics-apt-yum-dnf-pkg  
 2. [手机应用] Microsoft To-Do  
 我没想到微软有这么一款应用，这个todo应用超过我的期待，我已经把它放在我的手机第一屏了，免费软件做出了收费版的体验！ios应用商店有下载，不知道有没有安卓版。
-3. [技术漫画] how dns works
-https://howdns.works/ 以漫画的方式讲解dns的工作原理，fun!
-4. [技术漫画] how https works
-https://howhttps.works/ 以漫画的方式讲解https的工作原理，fun！
+3. [技术漫画] how dns works  
+https://howdns.works/ 以漫画的方式讲解dns的工作原理，fun!  
+4. [技术漫画] how https works  
+https://howhttps.works/ 以漫画的方式讲解https的工作原理，fun！  
