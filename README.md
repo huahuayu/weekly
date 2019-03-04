@@ -3,16 +3,16 @@
 ## 2019年第9周
 1. [技术文章] 各个linux发行版的包管理命令详解 from digitalocean，我发现云服务提供商现在都有建立自己的知识库，部分官方贡献，部分是用户贡献内容，质量都比较高，以下就是一篇，系统的总结各种linux发行版的包管理命令  
 https://www.digitalocean.com/community/tutorials/package-management-basics-apt-yum-dnf-pkg  
-1. [手机应用] Microsoft To-Do  
+2. [手机应用] Microsoft To-Do  
 我没想到微软有这么一款应用，这个todo应用超过我的期待，我已经把它放在我的手机第一屏了，免费软件做出了收费版的体验！ios应用商店有下载，不知道有没有安卓版。
-1. [技术漫画] how dns works  
+3. [技术漫画] how dns works  
 https://howdns.works/ 以漫画的方式讲解dns的工作原理，fun!  
-1. [技术漫画] how https works  
+4. [技术漫画] how https works  
 https://howhttps.works/ 以漫画的方式讲解https的工作原理，fun！ 
-1. [技术文章] why dns is important and how it works  
+5. [技术文章] why dns is important and how it works  
 https://dyn.com/blog/dns-why-its-important-how-it-works/
 ## 2019年第10周
-1. [架构] 10 Common Software Architectural Patterns in a nutshell，10种常见企业软件架构总结
+6. [架构] 10 Common Software Architectural Patterns in a nutshell，10种常见企业软件架构总结
 https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013
 
 包含以下架构模型，言简意赅  
@@ -28,5 +28,5 @@ Model-view-controller pattern
 Blackboard pattern
 Interpreter pattern
 ```
-1. [github repo] 产品级的注册登录服务by java  
+2. [github repo] 产品级的注册登录服务by java  
 https://github.com/Baeldung/spring-security-registration
