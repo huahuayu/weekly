@@ -9,6 +9,6 @@ https://www.digitalocean.com/community/tutorials/package-management-basics-apt-y
 https://howdns.works/ 以漫画的方式讲解dns的工作原理，fun!  
 1. [技术漫画] how https works  
 https://howhttps.works/ 以漫画的方式讲解https的工作原理，fun！ 
-1. [技术文章] why dsn is important and how it works  
+1. [技术文章] why dns is important and how it works  
 https://dyn.com/blog/dns-why-its-important-how-it-works/
 ## 2019年第10周
