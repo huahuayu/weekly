@@ -12,7 +12,7 @@ https://howhttps.works/ 以漫画的方式讲解https的工作原理，fun！
 5. [技术文章] why dns is important and how it works  
 https://dyn.com/blog/dns-why-its-important-how-it-works/
 ## 2019年第10周
-6. [架构] 10 Common Software Architectural Patterns in a nutshell，10种常见企业软件架构总结
+1. [架构] 10 Common Software Architectural Patterns in a nutshell，10种常见企业软件架构总结
 https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013
 
 包含以下架构模型，言简意赅  
