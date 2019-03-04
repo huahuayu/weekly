@@ -9,3 +9,4 @@ https://www.digitalocean.com/community/tutorials/package-management-basics-apt-y
 https://howdns.works/ 以漫画的方式讲解dns的工作原理，fun!  
 4. [技术漫画] how https works  
 https://howhttps.works/ 以漫画的方式讲解https的工作原理，fun！  
+## 2019年第10周
