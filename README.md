@@ -34,3 +34,5 @@ https://github.com/Baeldung/spring-security-registration .
 https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc?hl=en-US&utm_source=chrome-ntp-launcher  
 4. [github repo] go网络编程  
 https://github.com/tumregels/Network-Programming-with-Go
+5. [方案] 北森招聘系统SaaS   
+https://www.beisen.com/
