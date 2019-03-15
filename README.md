@@ -41,4 +41,5 @@ https://www.beisen.com/
 1. [效率工具][draw.io](https://draw.io)是一个在线画流程图的好工具，我用了多年了，我觉得完全可以替代windows下的visio，draw.io配合google drive来用更棒。同时它还提供mac桌面软件，可以离线使用。  
 2. [开发工具][yeoman](https://yeoman.io)是一个代码生成工具，可以按最佳实践生成项目骨架。有很多开发者贡献了不少生成器，可以直接使用，[点此查看](https://yeoman.io/generators/)，你也可以制作自己的代码生成方案并共享  
 3. [小技巧][.dotfile](https://github.com/huahuayu/.dotfile)是我从朋友那边借鉴的，这是放在home目录下的隐藏文件夹，里面集中了一些我自己的常用软件配置，包括zsh,vim,git和其他个性化的脚本等。用软连接的方式链接到配置文件的路径，用github做版本管理。使用之后我感觉很爽，配置都集中了，有延续性，独一无二的一份配置永远跟着我，即便换一台新电脑(mac/linux)，只要git拉取一下，很快就可以用的顺手。其实现在这是很普遍的做法了，github上N多dotfile的库，有些大神的dotfile有几万个star，[点此了解](https://github.com/search?q=dotfile)。这些高star的dotfile可以借鉴，但是配置这东西就是要个性化的，适合自己的就是好的。  
-4. [在线培训] [实验楼](https://www.shiyanlou.com/)是一个在线提供上机环境(vm)的IT培训网站，他们的口号是"动手做实验，轻松学IT"，mooc现在有很多家，像实验楼这种的我只看到这一家，我觉得非常用心，也非常良心，很多免费课程，实操为主。get your hands dirty对IT人来说非常重要，直接上手练几次就会了。  
+4. [在线培训] [实验楼](https://www.shiyanlou.com/)是一个在线提供上机环境(vm)的IT培训网站，他们的口号是"动手做实验，轻松学IT"，mooc现在有很多家，像实验楼这种的我只看到这一家，我觉得非常用心，也非常良心，很多免费课程，实操为主。get your hands dirty对IT人来说非常重要，直接上手练几次就会了。
+5. [golang weekly] [golang weekly](https://golangweekly.com/) go开发者最好订阅一下，里面的文章质量都很高，能接触到社区的最新动态。  
