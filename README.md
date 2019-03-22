@@ -43,4 +43,12 @@ https://www.beisen.com/
 3. [小技巧][.dotfile](https://github.com/huahuayu/.dotfile)是我从朋友那边借鉴的，这是放在home目录下的隐藏文件夹，里面集中了一些我自己的常用软件配置，包括zsh,vim,git和其他个性化的脚本等。用软连接的方式链接到配置文件的路径，用github做版本管理。使用之后我感觉很爽，配置都集中了，有延续性，独一无二的一份配置永远跟着我，即便换一台新电脑(mac/linux)，只要git拉取一下，很快就可以用的顺手。其实现在这是很普遍的做法了，github上N多dotfile的库，有些大神的dotfile有几万个star，[点此了解](https://github.com/search?q=dotfile)。这些高star的dotfile可以借鉴，但是配置这东西就是要个性化的，适合自己的就是好的。  
 4. [在线培训] [实验楼](https://www.shiyanlou.com/)是一个在线提供上机环境(vm)的IT培训网站，他们的口号是"动手做实验，轻松学IT"，mooc现在有很多家，像实验楼这种的我只看到这一家，我觉得非常用心，也非常良心，很多免费课程，实操为主。get your hands dirty对IT人来说非常重要，直接上手练几次就会了。
 5. [golang weekly] go开发者最好邮件订阅一下[golang weekly](https://golangweekly.com/)，里面的文章质量都很高，能接触到社区的最新动态。  
-6. [效率工具] [Swaggo](https://github.com/swaggo) 是一个效率工具，在写golang程序的时候只要按规则写好注释，swaggo能帮你自动生成在线api文档。
+6. [效率工具] [Swaggo](https://github.com/swaggo) 是一个效率工具，在写golang程序的时候只要按规则写好注释，swaggo能帮你自动生成在线api文档。 
+## 2019年第12周
+1. [电脑加速] mac上有一个应用叫dashboard，聚合计算器、天气之类的一个挂件应用，99.9%的人一般都不会去用的（计算器和天气之类的都有独立的app，谁会去用挂件呢，而且现在也没有开发者开发更多的挂件），但它一直在后台运行，运行`defaults write com.apple.dashboard mcx-disabled -boolean YES && killall Dock`可以将dashboard关闭掉，能节省1%是1%。 
+2. [效率工具] mac下的wps2019真的好用，现在可以画流程图和mindmap了，而且整合成一个应用 wps2019，新建文件的时候再选word,excel,ppt,flowchat,mindmap。就mac下的体验来说完胜Microsoft office。以后画流程图我可能就用wps了（替换原来的[draw.io](https://draw.io)）。  
+3. [效率工具] Alfred是一个可以替代mac自带的spotlight软件，是mac效率神器，据Alfred自带的统计，平均每天我要使用14次，一年使用5000多次。[关于它的用法可以写本书](http://louiszhai.github.io/2018/05/31/alfred/)，我还只用到部分功能：本地文件/应用搜索、在线搜索引擎一键搜索、自定义的workflows功能。alfred可以免费使用，但是workflows功能是收费版才有的，也不贵，折合人民币两百多块，而且很良心：一次购买，永久升级。强烈推荐使用收费版，因为workflows是它的精华。我在github上有分享一个我定制的workflows插件，叫[all in one search](https://github.com/huahuayu/all-in-one-search-workflows)  
+4. [效率工具] iterm2是mac下一个terminal软件，比自带的terminal软件好用很多，建议开启每日tips，不要disable掉它，每天使用的时候学习一个小技巧，会越来越得心应手  
+5. [效率工具] [tmux](https://hackernoon.com/a-gentle-introduction-to-tmux-8d784c404340)是一个命令行软件，可以在一个ssh连接的基础上开多个工作窗口，执行不同的任务。即便因为网络原因ssh断开连接，当再次连上ssh时，tmux里面的任务不会受影响。  
+
+
