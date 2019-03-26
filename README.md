@@ -51,4 +51,7 @@ https://www.beisen.com/
 4. [效率工具] iterm2是mac下一个terminal软件，比自带的terminal软件好用很多，建议开启每日tips，不要disable掉它，每天使用的时候学习一个小技巧，会越来越得心应手  
 5. [效率工具] [tmux](https://hackernoon.com/a-gentle-introduction-to-tmux-8d784c404340)是一个命令行软件，可以在一个ssh连接的基础上开多个工作窗口，执行不同的任务。即便因为网络原因ssh断开连接，当再次连上ssh时，tmux里面的任务不会受影响。  
 
-
+## 2019年第13周
+1. [信息安全] 偶然看到一个黑技术的repo https://github.com/tiancode/learn-hacking 我蛮感兴趣的，有空来学习下，从这里衍生看到https://www.hackthissite.org/ 里面有一些黑客挑战题，也算是一个黑客社区，回头来学习下。  
+2. [chrome插件] [fireshot](https://chrome.google.com/webstore/detail/take-webpage-screenshots/mcbpblocgmgfnpjjppndjkmgjaogfceg) chrome插件可以滚动截图。以前我一直用snagit，因为它支持任意窗口的滚动截图，但是最近的snagit版本（mac版）好像滚动截图都不好使了。现在fireshot至少能满足我浏览器内截图需求。  
+3. [效率工具] 说到截图，图片上传图床也是头疼的事，[picgo](https://github.com/Molunerfinn/PicGo)是一个支持多个图床的便捷上传图片的软件，强烈推荐!   
