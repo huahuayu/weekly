@@ -55,3 +55,6 @@ https://www.beisen.com/
 1. [信息安全] 偶然看到一个黑技术的repo https://github.com/tiancode/learn-hacking 我蛮感兴趣的，有空来学习下，从这里衍生看到https://www.hackthissite.org/ 里面有一些黑客挑战题，也算是一个黑客社区，回头来学习下。  
 2. [chrome插件] [fireshot](https://chrome.google.com/webstore/detail/take-webpage-screenshots/mcbpblocgmgfnpjjppndjkmgjaogfceg) chrome插件可以滚动截图。以前我一直用snagit，因为它支持任意窗口的滚动截图，但是最近的snagit版本（mac版）好像滚动截图都不好使了。现在fireshot至少能满足我浏览器内截图需求。  
 3. [效率工具] 说到截图，图片上传图床也是头疼的事，[picgo](https://github.com/Molunerfinn/PicGo)是一个支持多个图床的便捷上传图片的软件，强烈推荐!   
+
+## 2019年第14周
+1. [mac技巧] mac右键用vscode打开文件夹 https://github.com/Sankra/OpenFolderInVSCode  
