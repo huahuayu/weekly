@@ -58,3 +58,4 @@ https://www.beisen.com/
 
 ## 2019年第14周
 1. [mac技巧] mac右键用vscode打开文件夹 https://github.com/Sankra/OpenFolderInVSCode  
+2. [小工具] 克隆自己所有的github repo https://www.npmjs.com/package/clone-all-github-repos , 安装的时候会要求输入github用户名和access token, 之后就可以用`cagr`命令克隆自己所有的repos到本地文件夹  
