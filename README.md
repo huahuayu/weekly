@@ -65,3 +65,4 @@ https://www.beisen.com/
 
 ## 2019年第19周
 1. [休闲] 在线小霸王游戏 https://yikm.net/ 游戏全，体验棒，很怀旧的感觉  
+2. [mac软件] annotate这个mac软件好用，制作gif的 https://itunes.apple.com/us/app/annotate-capture-and-share/id918207447?mt=12
