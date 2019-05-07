@@ -62,3 +62,6 @@ https://www.beisen.com/
 3. [程序员漫画] 偶然看到这个程序员漫画，搞笑，和西乔的神秘的程序员们有的一拼 https://instagram.com/themonkeyuser  
 4. [mac查看进程和端口号绑定] 因为mac下的netstat和linux下的netstat有些不一样([究其原因](https://tonydeng.github.io/2016/07/07/use-lsof-to-replace-netstat/))，我一直为此所困，在mac下要用lsof命令替代昨，但是我又记不住这么长的命令，昨天看到一个Stack Overflow回答，彻底解决了我的问题，把lsof命令封装成一个方法，赞 https://stackoverflow.com/a/30029855/6797425   
 5. [命令行技巧] 当常用的路径比较深的时候，cd过去比较麻烦，可以在zshrc文件中加入 `alias mydir='cd /a/very/very/very/long/dir'` 以后直接在命令行中敲mydir就可以到dir目录了，非常方便  
+
+## 2019年第19周
+1. [休闲] 在线小霸王游戏 https://yikm.net/ 游戏全，体验棒，很怀旧的感觉  
