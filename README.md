@@ -66,4 +66,7 @@ https://www.beisen.com/
 ## 2019年第19周
 1. [休闲] 在线小霸王游戏 https://yikm.net/ 游戏全，体验棒，很怀旧的感觉  
 2. [mac软件] annotate这个mac软件好用，制作gif的 https://itunes.apple.com/us/app/annotate-capture-and-share/id918207447?mt=12  
-3. [云储存软件] 自从金山快盘退出市场后我就开始使用坚果云，已经使用了多年，产品做得很棒，全平台支持，支持找回历史文件，强力推荐。   
+3. [云储存软件] 自从金山快盘退出市场后我就开始使用坚果云，已经使用了多年，产品做得很棒，全平台支持，支持找回历史文件，强力推荐。  
+
+## 2019年第21周
+1. [git] [A successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/)这篇文章估计是gitflow相关话题引用最多的一篇文章，值得认真学习https://www.atlassian.com/git/tutorials/comparing-workflows 进一步做了阐述，中文相关的翻译github项目star都达到几千了   
