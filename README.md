@@ -70,3 +70,4 @@ https://www.beisen.com/
 
 ## 2019年第21周
 1. [git] [A successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/)这篇文章估计是gitflow相关话题引用最多的一篇文章，值得认真学习https://www.atlassian.com/git/tutorials/comparing-workflows 进一步做了阐述，中文相关的翻译github项目star都达到几千了   
+2. [网站跨域] 看这两个网站就够了，第一个讲原理，第二个讲实用：https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS https://enable-cors.org
