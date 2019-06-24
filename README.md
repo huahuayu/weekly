@@ -75,3 +75,6 @@ https://www.beisen.com/
 ## 2019年第23周
 1. [技术文档] rackspace的技术文档规范，我觉得他们技术文档写的很好，原来是有制定一个技术文档写作规范，我要深度学习一下，这是专业素养的一部分 https://developer.rackspace.com/docs/style-guide/
 
+## 2019年第26周  
+1. [效率应用] Microsoft todo有了官方Mac app了，appstore可以下载，喜大普奔。在此之前我用电脑时都是访问web版  
+2. [markdown] 写markdown很爽，但是遇到要插入table时如果手敲就有麻烦，要敲很多竖线。为了解决这个常见问题，我想到应该会有相关的alfred插件，一搜，果然是有的。体验还非常不错。https://github.com/crispgm/alfred-markdown-table  
