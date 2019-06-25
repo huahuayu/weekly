@@ -78,4 +78,4 @@ https://www.beisen.com/
 ## 2019年第26周  
 1. [效率应用] Microsoft todo有了官方Mac app了，appstore可以下载，喜大普奔。在此之前我用电脑时都是访问web版  
 2. [markdown] 写markdown很爽，但是遇到要插入table时如果手敲就有麻烦，要敲很多竖线。为了解决这个常见问题，我想到应该会有相关的alfred插件，一搜，果然是有的。体验还非常不错。https://github.com/crispgm/alfred-markdown-table  
-3. [实用工具] 贴代码片段/日志并分享的在线服务 https://pastebin.com/ ，方便在网络上跟人说明问题。  
+3. [实用工具] 贴代码片段/日志并分享的在线服务 https://pastebin.com/ ，方便在网络上跟人说明问题。类似的服务还有https://pastebin.ubuntu.com/    
