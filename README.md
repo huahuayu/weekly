@@ -80,3 +80,4 @@ https://www.beisen.com/
 2. [markdown] 写markdown很爽，但是遇到要插入table时如果手敲就有麻烦，要敲很多竖线。为了解决这个常见问题，我想到应该会有相关的alfred插件，一搜，果然是有的。体验还非常不错。https://github.com/crispgm/alfred-markdown-table  
 3. [实用工具] 贴代码片段/日志并分享的在线服务 https://pastebin.com/ ，方便在网络上跟人说明问题。类似的服务还有https://pastebin.ubuntu.com/ 
 4. [在线简历] 这个简历模板非常简洁漂亮，在线投递简历的时候就可以直接给链接了，还可以下载pdf，很棒 https://crispgm.github.io/resume/resume.html  
+5. [在线vscode] 这个项目可以让vscode在线访问，体验非常棒了，可以用来远程面试，哈哈 https://github.com/cdr/code-server
