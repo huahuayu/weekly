@@ -81,3 +81,8 @@ https://www.beisen.com/
 3. [实用工具] 贴代码片段/日志并分享的在线服务 https://pastebin.com/ ，方便在网络上跟人说明问题。类似的服务还有https://pastebin.ubuntu.com/ 
 4. [在线简历] 这个简历模板非常简洁漂亮，在线投递简历的时候就可以直接给链接了，还可以下载pdf，很棒 https://crispgm.github.io/resume/resume.html  
 5. [在线vscode] 这个项目可以让vscode在线访问，体验非常棒了，可以用来远程面试，哈哈 https://github.com/cdr/code-server
+
+## 2019年28周
+1. [效率应用] 通过alfred管理ssh连接，实现和windows下的xshell功能  https://github.com/projectweekend/alfred-iterm-ssh-workflow  
+
+
