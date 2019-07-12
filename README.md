@@ -84,5 +84,5 @@ https://www.beisen.com/
 
 ## 2019年28周
 1. [效率应用] 通过alfred管理ssh连接，实现和windows下的xshell功能  https://github.com/projectweekend/alfred-iterm-ssh-workflow  
-
+2. [github markdown图标] github项目readme里加上一些图标效果更友好，这里是在线的图标列表 https://www.webfx.com/tools/emoji-cheat-sheet/ 复制图标代号就可以使用了  
 
