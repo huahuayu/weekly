@@ -86,3 +86,8 @@ https://www.beisen.com/
 1. [效率应用] 通过alfred管理ssh连接，实现和windows下的xshell功能  https://github.com/projectweekend/alfred-iterm-ssh-workflow  
 2. [github markdown图标] github项目readme里加上一些图标效果更友好，这里是在线的图标列表 https://www.webfx.com/tools/emoji-cheat-sheet/ 复制图标代号就可以使用了  
 
+## 2019年31周
+1. [Mac技巧] Mac下的文件管理器finder搜索栏，我一直觉得不太好用，原因是搜索的时候默认搜索整个Mac（抓狂），最近我才知道可以设置默认搜索当前文件夹，设置方法是Finder->perferences->advance->最下方选择search the current folder  
+
+
+
